@@ -25,7 +25,7 @@ public class Robot extends IterativeRobot {
     	myRobot = new RobotDrive(0,1);
     	stick = new Joystick(0);
     }
-    
+    //monchichis
     /**
      * This function is run once each time the robot enters autonomous mode
      */
